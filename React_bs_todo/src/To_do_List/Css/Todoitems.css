@@ -1,0 +1,39 @@
+.todoitems{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0px;
+    align-items: center;
+}
+
+.todoitems-container{
+    display: flex;
+}
+
+.todoitems-text{
+    padding-left: 16px;
+    color: #404040;
+    font-size: 22px;
+}
+
+.todoitems-cross-icon{
+    cursor:pointer;
+    padding-right: 25px;
+}
+
+.line-through{text-decoration: line-through solid #ADADAD 3px;}
+
+/* Todoitems.css */
+
+.todoitems-container img {
+    width: 28.3465px; /* 10mm in pixels at 96dpi, 1 inch = 25.4mm */
+    height: 28.3465px; /* 10mm in pixels at 96dpi, 1 inch = 25.4mm */
+  }
+  
+  /* Add the same styling for the cross icon if needed */
+  .todoitems-cross-icon {
+    width: 28.3465px;
+    height: 28.3465px;
+  }
+  
+  /* Additional styling for other elements in your Todoitems component goes here */
+  
