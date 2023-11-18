@@ -1,0 +1,42 @@
+npm create vite@latest
+
+Project name:>> react_mosh
+
+then it asks for select framework
+vanilla\vue\React\Preact\lit\Svelte\Solid\Qwik\Others
+from this select React
+
+then Typescript\Typescript+SWC\JavaScript\JavaScript+SWC
+from this select JavaScript+SWC
+
+cd react_mosh
+npm install
+npm run dev
+
+npm i bootstrap@latest
+
+
+
+in the view tool bar 
+
+view ==>command pallete==>Format Document ==> prettier code formatter
+
+for wrapping with div
+
+select the whole JSX compoinents.
+
+and the select view
+
+view==> command palette==>wrap and abbreviation ==> div or any other element.
+
+
+completed till 50:47 remaining 29:16
+
+rafce  : react arrow function component component
+
+
+Props                          State
+
+input pased to a component  Data managed by a component
+Simiiar to function args    Similiar to local variables
+Immutable                   Mutable
